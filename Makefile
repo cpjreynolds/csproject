@@ -1,4 +1,3 @@
-
 SOURCES := $(wildcard *.java)
 ENTRYPOINT := Main
 
